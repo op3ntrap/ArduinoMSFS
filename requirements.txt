@@ -1,0 +1,4 @@
+pyserial~=3.5
+pyvjoy~=1.0.1
+setuptools~=49.2.1
+Cython~=0.29.21
